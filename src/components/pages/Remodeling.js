@@ -9,10 +9,9 @@ export default function Remodeling() {
           <p className="text-base animate-pulse">Kitchens, Bathrooms, Basements & More</p>
         </h1>
         <p className="text-black leading-normal text-center font-black font-mono ">
-          Our trusted and insured handymen can help with any part of your remodeling project.
-          Whether you need a new floor or a new window installed, your local Mr. Handyman has the
-          knowledge and experience. You can depend on our Done Right Guarantee. Just one call will
-          get you that much closer to your remodeling project.
+          I can help you with any part of your remodeling project. Whether you need a new floor or a
+          new window installed, i have the knowledge and experience. You can depend on my Done Right
+          Guarantee. Just one call will get you that much closer to your remodeling project.
         </p>
       </div>
       <div className="grid grid-cols-2 bg-white font-mono">
@@ -20,44 +19,19 @@ export default function Remodeling() {
           <h1 className="bg-red-800 text-white text-lg font-mono font-black">
             Basement Remodel & Renovation
           </h1>
-          <p className="text-black leading-normal text-center font-mono">
-            Finishing the basement is a great way to give the kids some more space to play. It also
-            adds additional total finished living space to your home. Whether you need help building
-            an entertainment center or installing new stairs, Mr. Handyman is the one-call solution
-            to your entire basement remodeling project.
-          </p>
         </div>
         <div className="pr-2 pt-2">
           <h1 className="bg-red-800 text-white text-lg font-mono font-black">
             Bathroom Remodel & Renovation
           </h1>
-          <p className="text-black leading-normal text-center font-mono">
-            Whether you need help replacing a toilet, installing a new tub or tiling your shower,
-            there's no bathroom task that your local Mr. Handyman can't handle. Mr. Handyman is just
-            one call away from starting and completing your entire bathroom remodeling project.
-          </p>
         </div>
         <div className="pr-2 pt-2">
           <h1 className="bg-red-800 text-white text-lg font-mono font-black">
             Kitchen Remodel & Renovation
           </h1>
-          <p className="text-black leading-normal text-center font-mono">
-            One call to Mr. Handyman will make you that much closer to realizing the kitchen of your
-            dreams. From installing new counter tops to brand new cabinets, there’s no job either
-            too big or too small for Mr. Handyman. Contact your local Mr. Handyman to discuss your
-            kitchen remodeling project today.
-          </p>
         </div>
         <div className="pt-2 pr-2">
           <h1 className="bg-red-800 text-white text-lg font-mono font-black">All Other Remodels</h1>
-          <p className="text-black leading-normal text-center font-mono">
-            All of our remodeling professionals have an average of 10 years' experience, which means
-            there's practically no job they can't handle. If you don't see your specific room or
-            service listed, call your local Mr. Handyman to speak to a home improvement professional
-            about your remodeling project. In addition, some remodeling services may not be
-            available at some locations. Call to discuss the details of your particular home
-            improvement project.
-          </p>
         </div>
       </div>
       <div className="p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5 ">

@@ -10,10 +10,9 @@ export default function Maintenance() {
         </h1>
         <p className="text-black leading-normal text-center font-black font-mono ">
           The little things add up. That's why regular maintenance in and around the home is
-          especially important. With an average of 10 years' experience, all of our home improvement
-          professionals know exactly what to look for and how to fix it. From replacing grout in the
-          bathroom to installing a fan in the attic, let us tackle the small and large projects on
-          your list.
+          especially important. With an average of 10 years' experience, I know exactly what to look
+          for and how to fix it. From replacing grout in the bathroom to installing a fan in the
+          attic, let us tackle the small and large projects on your list together.
         </p>
       </div>
       <div className="grid grid-cols-3 bg-white font-mono">
@@ -21,12 +20,6 @@ export default function Maintenance() {
           <h1 className="bg-red-800 text-white text-lg font-mono font-black">
             Power Washing Services
           </h1>
-          <p className="text-black leading-normal text-center font-mono">
-            Mr. Handyman performs power washing—also known as pressure washing—that removes built-up
-            dirt and debris from decks and patios. You won’t have to pick up, clean or return a
-            rental power washer. Best of all, the job will be handled by a professional who knows
-            how to care for your deck and patio while making it shine.
-          </p>
         </div>
       </div>
       <div className="p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5 ">

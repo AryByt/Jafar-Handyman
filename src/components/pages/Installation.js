@@ -17,127 +17,57 @@ export default function Installation() {
       <div className="grid grid-cols-3 bg-white font-mono">
         <div className="pt-2 pr-2">
           <h1 className="bg-red-800 text-white text-lg font-mono font-black">Baby Proofing</h1>
-          <p className="text-black leading-normal text-center font-mono">
-            So, you have a baby on the way. Congratulations! Your local Mr. Handyman can help keep
-            your bundle of joy safe. Talk to one of our home improvement professionals about
-            installing baby gates throughout your home and any of our other baby proofing services.
-            Check out our Baby Proofing infographic for more tips on protecting your child and your
-            home.
-          </p>
         </div>
         <div className="pr-2 pt-2">
           <h1 className="bg-red-800 text-white text-lg font-mono font-black">
             Countertop Installation & Repair
           </h1>
-          <p className="text-black leading-normal text-center font-mono">
-            Installing new countertops in either your bathroom or kitchen is a great way to update
-            the look and feel or the entire room. Your countertop options are plentiful, from
-            laminate to butcher block and more. Find the counter top that fits your room and budget;
-            you can count on your local Mr. Handyman for quality countertop installation.
-          </p>
         </div>
         <div className="pr-2 pt-2">
           <h1 className="bg-red-800 text-white text-lg font-mono font-black">
             Crown Molding Installation
           </h1>
-          <p className="text-black leading-normal text-center font-mono">
-            From colonial to modern and more, our experienced, insured handymen will ensure your
-            crown molding installation reflects your home's style. Visit our crown molding
-            installation page for more information.
-          </p>
         </div>
         <div className="pt-2 pr-2">
           <h1 className="bg-red-800 text-white text-lg font-mono font-black">Door Installation</h1>
-          <p className="text-black leading-normal text-center font-mono">
-            Our fully insured technicians install interior and entryway doors, storm doors, shower
-            doors, closet doors, pocket doors, and pet doors, too. If you need your new doors
-            finished or painted first, professional Mr. Handyman painters are on hand with the right
-            equipment and expert technique
-          </p>
         </div>
         <div className="pr-2 pt-2">
           <h1 className="bg-red-800 text-white text-lg font-mono font-black">
             Gutter Guard Installation
           </h1>
-          <p className="text-black leading-normal text-center font-mono">
-            Cleaning and unclogging your rain gutters every fall and spring is tiresome. It's also
-            preventable. Consider installing gutter guards over your existing rain gutters. Gutter
-            guard installation will effectively cut back cleaning costs while preventing costly
-            gutter damage caused by clogged dirt, debris, and ice buildup.
-          </p>
         </div>
         <div className="pt-2 pr-2">
           <h1 className="bg-red-800 text-white text-lg font-mono font-black">
             Handrail & Stairs Installation
           </h1>
-          <p className="text-black leading-normal text-center font-mono">
-            Installing handrails can improve safety in garages, basements and tub-showers. We
-            install store-bought solutions and construct and fashion custom handrails or stairs as
-            well. You can depend on our worry-free guarantee.
-          </p>
         </div>
         <div className="pt-2 pr-2">
           <h1 className="bg-red-800 text-white text-lg font-mono font-black">TV Wall Mount</h1>
-          <p className="text-black leading-normal text-center font-mono">
-            Mounting your television is a great way to create more space in your living room,
-            basement, kitchen or bedroom. However, mounting a television isn’t always as easy as it
-            seems. Your local Mr. Handyman will make sure the television is mounted safely and
-            securely according to the specifications of the hardware.
-          </p>
         </div>
         <div className="pt-2 pr-2">
           <h1 className="bg-red-800 text-white text-lg font-mono font-black">
             Cabinet Installation & Repair
           </h1>
-          <p className="text-black leading-normal text-center font-mono">
-            One call means your bathroom or kitchen gets a whole new look, with expert carpentry
-            from professionals with over a decade of home improvement experience. All work is backed
-            by our worry-free guarantee.
-          </p>
         </div>
         <div className="pt-2 pr-2">
           <h1 className="bg-red-800 text-white text-lg font-mono font-black">
             Blackboard Installation
           </h1>
-          <p className="text-black leading-normal text-center font-mono">
-            Whether you need help installing a blackboard in your classroom or kitchen, Mr. Handyman
-            can help. Regardless of size, no task is either too big or too small for our home
-            improvement professionals. Contact Mr. Handyman today to see how we can help make your
-            chalkboard inspiration a reality
-          </p>
         </div>
         <div className="pt-2 pr-2">
           <h1 className="bg-red-800 text-white text-lg font-mono font-black">
             Basketball Hoop Installation
           </h1>
-          <p className="text-black leading-normal text-center font-mono">
-            With Mr. Handyman, you’re just one call away from shooting hoops. Whether you bought a
-            brand new basketball hoop or found one second-hand, our home improvement professionals
-            will help assemble the pole, backboard, rim and net. Most importantly, they will secure
-            the pole firmly into the ground – if required
-          </p>
         </div>
         <div className="pt-2 pr-2">
           <h1 className="bg-red-800 text-white text-lg font-mono font-black">
             Window Installation & Repair
           </h1>
-          <p className="text-black leading-normal text-center font-mono">
-            We provide expert window installation services. All of our home improvement
-            professionals have experience installing, repairing and replacing all types of windows.
-            You can depend on our worry-free guarantee.
-          </p>
         </div>
         <div className="pt-2 pr-2">
           <h1 className="bg-red-800 text-white text-lg font-mono font-black">
             Shelving Installation
           </h1>
-          <p className="text-black  leading-normal text-center font-mono">
-            Allow our shelving installation services to help you get organized. No matter the
-            material, we can install all different types of shelves in your garage, laundry room,
-            living room, closets and more. Can’t find the type of shelving you’re looking for? Our
-            custom shelving services will build you a shelving system with the exact look and finish
-            you want.
-          </p>
         </div>
       </div>
       <div className="p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5 ">

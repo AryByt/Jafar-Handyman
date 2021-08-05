@@ -9,17 +9,16 @@ export default function Assembly() {
           <p className="text-base animate-pulse">Furniture Assembly, Bed Frames & More</p>
         </h1>
         <p className="text-black leading-normal text-center font-black font-mono ">
-          Everyone knows that some assembly required usually means lots of assembly. Mr. Handyman
-          gets your furniture and equipment out of the box and into your home or yard, so you don't
-          have to agonize over confusing instructions. Directions for assembling a new piece of
-          furniture can be confusing and the assemblies themselves can be involved and time
-          consuming. Mr. Handyman professionals handle assembly needs right away.
+          Everyone knows that some assembly required usually means lots of assembly.I get your
+          furniture and equipment out of the box and into your home or yard, so you don't have to
+          agonize over confusing instructions. Directions for assembling a new piece of furniture
+          can be confusing and the assemblies themselves can be involved and time consuming. I
+          handle assembly needs right away.
         </p>
       </div>
       <div className="grid grid-cols-3 bg-white font-mono">
         <div className="pt-2 pr-2">
           <h1 className="bg-red-800 text-white text-lg font-mono font-black">Bed Frame Assembly</h1>
-          <p className="text-black leading-normal text-center font-mono">Bed Frame Assembly</p>
         </div>
 
         <div className=" bg-white font-mono">
@@ -27,72 +26,17 @@ export default function Assembly() {
             <h1 className="bg-red-800 text-white text-lg font-mono font-black">
               Bookcase Assembly
             </h1>
-            <p className="text-black leading-normal text-center font-mono">Bookcase Assembly</p>
           </div>
         </div>
         <div className=" bg-white font-mono">
           <div className="pt-2 pr-2">
             <h1 className="bg-red-800 text-white text-lg font-mono font-black">Cabinet Assembly</h1>
-            <p className="text-black leading-normal text-center font-mono">Cabinet Assembly</p>
           </div>
         </div>
         <div className=" bg-white font-mono">
           <div className="pt-2 pr-2">
             <h1 className="bg-red-800 text-white text-lg font-mono font-black">Deck Assembly</h1>
-            <p className="text-black leading-normal text-center font-mono">Deck Assembly y</p>
           </div>
-        </div>
-        <div className=" bg-white font-mono">
-          <div className="pt-2 pr-2">
-            <h1 className="bg-red-800 text-white text-lg font-mono font-black">
-              Deck Furniture Assembly
-            </h1>
-            <p className="text-black leading-normal text-center font-mono">
-              Deck Furniture Assembly
-            </p>
-          </div>
-        </div>
-        <div className="pt-2 pr-2">
-          <h1 className="bg-red-800 text-white text-lg font-mono font-black">
-            Deck Furniture Assembly
-          </h1>
-          <p className="text-black leading-normal text-center font-mono">Deck Furniture Assembly</p>
-        </div>
-        <div className="pt-2 pr-2">
-          <h1 className="bg-red-800 text-white text-lg font-mono font-black">
-            Deck Furniture Assembly
-          </h1>
-          <p className="text-black leading-normal text-center font-mono">Deck Furniture Assembly</p>
-        </div>
-        <div className="pt-2 pr-2">
-          <h1 className="bg-red-800 text-white text-lg font-mono font-black">
-            Deck Furniture Assembly
-          </h1>
-          <p className="text-black leading-normal text-center font-mono">Deck Furniture Assembly</p>
-        </div>
-        <div className="pt-2 pr-2">
-          <h1 className="bg-red-800 text-white text-lg font-mono font-black">
-            Deck Furniture Assembly
-          </h1>
-          <p className="text-black leading-normal text-center font-mono">Deck Furniture Assembly</p>
-        </div>
-        <div className="pt-2 pr-2">
-          <h1 className="bg-red-800 text-white text-lg font-mono font-black">
-            Deck Furniture Assembly
-          </h1>
-          <p className="text-black leading-normal text-center font-mono">Deck Furniture Assembly</p>
-        </div>
-        <div className="pt-2 pr-2">
-          <h1 className="bg-red-800 text-white text-lg font-mono font-black">
-            Deck Furniture Assembly
-          </h1>
-          <p className="text-black leading-normal text-center font-mono">Deck Furniture Assembly</p>
-        </div>
-        <div className="pt-2 pr-2">
-          <h1 className="bg-red-800 text-white text-lg font-mono font-black">
-            Deck Furniture Assembly
-          </h1>
-          <p className="text-black leading-normal text-center font-mono">Deck Furniture Assembly</p>
         </div>
       </div>
       <div className="p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5 ">
