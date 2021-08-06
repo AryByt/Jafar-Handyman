@@ -16,7 +16,7 @@
 - [Code Issues & Resolutions](#code-issues--resolutions)
 - 
 <br>
-[deployment](https://www.jefhandyman.com/) for the deployed app on netlify!.
+https://www.jefhandyman.com for the deployed app on netlify!.
 
 # FIGMA DESIGN
 https://www.figma.com/file/D4fdbYy3jT5ilKoBjJjhvV/Untitled?node-id=0%3A1
