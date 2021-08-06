@@ -6,3 +6,5 @@ This website is still in progress but I'm working on it daily!
 I did deploy the website to Netlify here's the deployed link below!
  [deployment](https://www.jefhandyman.com/) for the deployed app on netlify!.
 
+#FIGMA DESIGN
+https://www.figma.com/file/D4fdbYy3jT5ilKoBjJjhvV/Untitled?node-id=0%3A1
