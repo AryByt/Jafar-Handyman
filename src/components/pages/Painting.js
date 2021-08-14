@@ -1,6 +1,7 @@
 import React from 'react';
 import painting from '../../assets/images/paintingafter.png';
 import paintingbefore from '../../assets/images/paintingbefore.png';
+import paint from '../../assets/images/dapainting.png';
 export default function Painting() {
   return (
     <div className="bg-white">
@@ -49,30 +50,21 @@ export default function Painting() {
           <img className="w-full" alt="logo" src={painting} />
           <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2 text-red-700">Painting</div>
-            <p class="text-black text-base">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla!
-              Maiores et perferendis eaque, exercitationem praesentium nihil.
-            </p>
+            <p class="text-black text-base">Before</p>
           </div>
         </div>
         <div class="rounded overflow-hidden shadow-lg bg-white">
           <img className="w-full" alt="logo" src={paintingbefore} />
           <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2 text-red-700">Painting</div>
-            <p class="black text-base">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla!
-              Maiores et perferendis eaque, exercitationem praesentium nihil.
-            </p>
+            <p class="black text-base">After</p>
           </div>
         </div>
         <div class="rounded overflow-hidden shadow-lg bg-white">
-          <img className="w-full" alt="logo" src={paintingbefore} />
+          <img className="w-full" alt="logo" src={paint} />
           <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2 text-red-700">Painting</div>
-            <p class="text-black text-base">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla!
-              Maiores et perferendis eaque, exercitationem praesentium nihil.
-            </p>
+            <p class="text-black text-base">Painting</p>
           </div>
         </div>
       </div>

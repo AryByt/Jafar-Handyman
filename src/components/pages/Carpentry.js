@@ -1,4 +1,6 @@
 import React from 'react';
+import d from '../..//assets/images/garagedone.png';
+import s from '../../assets/images/garage.png';
 
 export default function Carpentry() {
   return (
@@ -35,35 +37,19 @@ export default function Carpentry() {
           </h1>
         </div>
       </div>
-      <div className="p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5 ">
+      <div className="p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-2 lg:grid-cols-2 xl:grid-cols-2 gap-5 ">
         <div class="rounded overflow-hidden shadow-lg bg-white">
-          <img className="w-full" alt="logo" src="" />
+          <img className="w-full" alt="logo" src={s} />
           <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2 text-red-700">Painting</div>
-            <p class="text-black text-base">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla!
-              Maiores et perferendis eaque, exercitationem praesentium nihil.
-            </p>
+            <p class="text-black text-base">Before</p>
           </div>
         </div>
         <div class="rounded overflow-hidden shadow-lg bg-white">
-          <img className="w-full" alt="logo" src="" />
+          <img className="w-full" alt="logo" src={d} />
           <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2 text-red-700">Painting</div>
-            <p class="black text-base">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla!
-              Maiores et perferendis eaque, exercitationem praesentium nihil.
-            </p>
-          </div>
-        </div>
-        <div class="rounded overflow-hidden shadow-lg bg-white">
-          <img className="w-full" alt="logo" src="" />
-          <div class="px-6 py-4">
-            <div class="font-bold text-xl mb-2 text-red-700">Painting</div>
-            <p class="text-black text-base">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla!
-              Maiores et perferendis eaque, exercitationem praesentium nihil.
-            </p>
+            <p class="text-black text-base">After</p>
           </div>
         </div>
       </div>

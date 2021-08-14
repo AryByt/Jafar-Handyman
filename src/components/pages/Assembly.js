@@ -48,10 +48,7 @@ export default function Assembly() {
           />
           <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2 text-red-700">Assembly</div>
-            <p class="text-black text-base">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla!
-              Maiores et perferendis eaque, exercitationem praesentium nihil.
-            </p>
+            <p class="text-black text-base"></p>
           </div>
         </div>
         <div class="rounded overflow-hidden shadow-lg bg-white">
@@ -62,10 +59,7 @@ export default function Assembly() {
           />
           <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2 text-red-700">Assembly</div>
-            <p class="black text-base">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla!
-              Maiores et perferendis eaque, exercitationem praesentium nihil.
-            </p>
+            <p class="black text-base"></p>
           </div>
         </div>
         <div class="rounded overflow-hidden shadow-lg bg-white">
@@ -76,10 +70,7 @@ export default function Assembly() {
           />
           <div class="px-6 py-4">
             <div class="font-bold text-xl mb-2 text-red-700">Assembly</div>
-            <p class="text-black text-base">
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptatibus quia, nulla!
-              Maiores et perferendis eaque, exercitationem praesentium nihil.
-            </p>
+            <p class="text-black text-base"></p>
           </div>
         </div>
       </div>
